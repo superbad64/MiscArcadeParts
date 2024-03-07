@@ -1,4 +1,4 @@
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)  
 [![WTF Public License](https://upload.wikimedia.org/wikipedia/commons/0/0a/WTFPL_badge.svg)](http://www.wtfpl.net/)
 
 # Random collection of 3D printable hardware
