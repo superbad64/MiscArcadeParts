@@ -7,7 +7,7 @@
 
 // Modify these
 TOTAL_HEIGHT=40;
-TOTAL_DIAMETER=30;
+TOTAL_DIAMETER=28.5;
 
 // Not these
 RADIUS=TOTAL_DIAMETER/2;
@@ -24,10 +24,10 @@ module baseCylinder()
     color("green")
     union()
     {
-        cylinder(10, RADIUS, RADIUS, $fn = 64); 
-        translate([0, 0, 10])
+        cylinder(6, RADIUS, RADIUS, $fn = 64); 
+        translate([0, 0, 6])
             cylinder(10, RADIUS * 0.6, RADIUS * 0.6, $fn = 64);
-        translate([0, 0, 20])
+        translate([0, 0, 16])
             cylinder(13, 4.1, 4.1, $fn = 64);
     }
 }
@@ -41,7 +41,7 @@ module endCap()
 //translate([0, 0, -12])
 //    baseCylinder();
 
-translate([0, 0, 10])
+translate([0, 0, 9])
     union()
     {
         difference()
@@ -51,7 +51,7 @@ translate([0, 0, 10])
                 endCap();
                 mainCylinder();
             }
-            translate([0, 0, -20])
+            translate([0, 0, -15])
                 baseCylinder();
         }
 
