@@ -6,7 +6,7 @@
 ##################################################################################*/
 
 // Modify these
-TOTAL_HEIGHT=40;
+TOTAL_HEIGHT=42;
 TOTAL_DIAMETER=28.5;
 
 // Not these
