@@ -7,3 +7,12 @@ Print them in PETG or TPU (to taste), or you know basically anything with good l
 > [!WARNING]
 >
 > Don't print these in PLA ! PETG already breaks inside the switches permanently blocking them if mishandled; PLA does not have the layer adhesion required for this kind of application (especially if you repeatedly hit the edges of the cap)
+
+You will need:
+- A slicer
+- Blender if you wish to modify it
+
+Recommended print settings:
+- Material: Anything but PLA as outlined above
+- Infill: Any
+- Supports: Does not have supports
