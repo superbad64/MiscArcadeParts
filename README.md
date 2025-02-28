@@ -3,10 +3,8 @@
 
 # Random collection of 3D printable hardware
 
-Exactly what it says on the tin
+Exactly what it says on the tin !
 
 ---
 
-Each file should be fairly self explanatory, so this description in turn will be pretty barebones. Almost universally recommend PETG as printing material, with HiPS and ASA coming right behind (ABS could work too but frankly I personally don't want to deal with it). Nylon and TPU *might* work depending on the application.
-
-Basically don't print parts that are expected to take repeated hits out of PLA is what I'm saying.
+Each file should be fairly self explanatory, so this description in turn will be pretty barebones. Printing material should be PLA if not specified otherwise.
